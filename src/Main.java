@@ -9,7 +9,7 @@ public class Main {
         book1.setYear(2022);
 
 
-        System.out.println("Автор книги: "+author1.getName()+" "+author1.getSurName());
+        System.out.println("Автор книги: "+author1);
     }
 }
 
